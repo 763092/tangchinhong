@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Tang Chin Hong — Video Producer",
+      "hasCanvas": false,
+      "bodyTextLen": 733,
+      "bodyTextHash": "55badfa87c9fc98b0d674d590b2b675f279ea26a379677f62177b4d72191f6c7",
+      "bodyTextPrefix": "PORTFOLIO HONG KONG · 2026 TANG CHIN HONG PORTFOLIO CREATE LOADI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Tang Chin Hong — Video Producer",
+      "hasCanvas": false,
+      "bodyTextLen": 733,
+      "bodyTextHash": "55badfa87c9fc98b0d674d590b2b675f279ea26a379677f62177b4d72191f6c7",
+      "bodyTextPrefix": "PORTFOLIO HONG KONG · 2026 TANG CHIN HONG PORTFOLIO CREATE LOADI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
